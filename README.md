@@ -1,6 +1,6 @@
 # Hi, I'm Idah Musebe 👋🏾
 
-### Data Analyst | Junior Data Engineer
+### Junior Data Engineer | Data Analyst
 
 I’m a data professional with a passion for turning raw data into meaningful insights and practical data solutions.
 
